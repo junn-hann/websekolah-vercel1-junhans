@@ -45,5 +45,7 @@
             }
             .balok {
                 text-align: center;
+                margin-top: 25px;
+                padding-top: 100px;
             }
             </style>
