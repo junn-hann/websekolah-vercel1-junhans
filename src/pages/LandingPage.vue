@@ -47,6 +47,6 @@
                 text-align: center;
                 margin-top: 25px;
                 padding-top: 25px;
-                border-radius: 25px;
+                border-radius: 10px;
             }
             </style>
