@@ -20,6 +20,9 @@
 <template>
     <main>
         <LandingCard/>
+        <video controls width="480" muted loop>
+        <source src="/video/promo-toko.mp4" type="video/mp4" />
+        </video>
         <div class="grid">
             <PropotitionCard
             v-for="propotition in daftarPropotition"
