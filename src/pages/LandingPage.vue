@@ -20,9 +20,11 @@
 <template>
     <main>
         <LandingCard/>
+        <div class="balok">
         <video controls width="480" muted loop>
-        <source src="/video/promo-toko.mp4" type="video/mp4" />
+            <source src="/video/promo-toko.mp4" type="video/mp4" />
         </video>
+        </div>
         <div class="grid">
             <PropotitionCard
             v-for="propotition in daftarPropotition"
@@ -40,5 +42,8 @@
             gap: 20px;
             place-content: center;
             flex-wrap: wrap;
+            }
+            .balok {
+                text-align: center;
             }
             </style>
