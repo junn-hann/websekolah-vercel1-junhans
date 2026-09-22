@@ -11,7 +11,7 @@ const daftarProduk = [
 </script>
 <template>
  <main>
-    <div class="balok">
+    <div class="balik">
  <h1>produk kami</h1>
  </div>
  <div class="grid">
@@ -31,4 +31,12 @@ const daftarProduk = [
  gap: 16px;
  flex-wrap: wrap;
 }
+.balik{color:white;
+        width:100% ;
+        height :100px;
+        background:lightskyblue;
+        overflow: hidden;
+        margin: 10px;
+        text-align: center;
+        border-radius: 10px;}
 </style>
