@@ -11,7 +11,9 @@ const daftarProduk = [
 </script>
 <template>
  <main>
+    <div class="balok">
  <h1>produk kami</h1>
+ </div>
  <div class="grid">
  <ProductCard
  v-for="produk in daftarProduk"
