@@ -10,6 +10,7 @@
                  Kami berkomitmen untuk memberikan pengalaman belanja yang mudah, aman, dan nyaman bagi setiap pelanggan.
                  Kami selalu berusaha memilih produk terbaik, memberikan pelayanan yang ramah dan responsif, 
                  serta memastikan setiap pesanan diproses dengan teliti. Kepuasan pelanggan adalah prioritas utama kami.</p>
+                 <p>jkowi</p>
                  <P>kami berharap online shop ini tidak menjadi sebuah proyek sekolah, tetapi menjadi langkah awal untuk harus bekarya,belajar,dan mengembangkan kemampuan di bidand teknologi digital</P>
         </div>
         <div class="gambar">
