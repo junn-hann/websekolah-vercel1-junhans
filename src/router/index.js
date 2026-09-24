@@ -35,6 +35,7 @@ const router = createRouter({
  { path: '/product', component: ProductPage },
  { path: '/about', component: AboutPage },
  { path: '/contact', component: ContactPage },
+ { path: '/testimoni',component:TestimoniPage}
  ],
 })
 export default router
