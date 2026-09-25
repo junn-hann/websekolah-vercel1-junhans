@@ -54,7 +54,7 @@ const testimonials = ref([
     name: 'afgan syihapudinn',
     role: 'Product Manager',
     message: 'Dukungan pelanggan sangat responsif. Setiap ada kendala selalu terselesaikan dalam hitungan menit.',
-    avatar: 'https://i.pravatar.cc/150?img=5',
+    avatar: 'https://i.pravatar.cc/150?img=12',
     rating: 5
   },
   {
@@ -69,7 +69,7 @@ const testimonials = ref([
 </script>
 
 <style scoped>
-
+/* Reset dasar & Section Container */
 .testimonial-section {
   background-color: #f9fafb;
   padding: 60px 20px;
