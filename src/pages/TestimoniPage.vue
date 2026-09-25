@@ -43,7 +43,7 @@ import { ref } from 'vue'
 const testimonials = ref([
   {
     id: 1,
-    name: 'Budi Santoso',
+    name: 'resky syihahhhhh',
     role: 'Software Engineer',
     message: 'Layanan ini sangat membantu produktivitas tim kami. Interface-nya ramah pengguna dan fiturnya lengkap!',
     avatar: 'https://i.pravatar.cc/150?img=11',
@@ -51,7 +51,7 @@ const testimonials = ref([
   },
   {
     id: 2,
-    name: 'Siti Rahma',
+    name: 'afgan syihapudinn',
     role: 'Product Manager',
     message: 'Dukungan pelanggan sangat responsif. Setiap ada kendala selalu terselesaikan dalam hitungan menit.',
     avatar: 'https://i.pravatar.cc/150?img=5',
@@ -59,7 +59,7 @@ const testimonials = ref([
   },
   {
     id: 3,
-    name: 'Deni Wijaya',
+    name: 'Deni syihah',
     role: 'UI/UX Designer',
     message: 'Desain dan pengalaman menggunakannya sangat intuitif. Sangat direkomendasikan untuk proyek skala besar.',
     avatar: 'https://i.pravatar.cc/150?img=13',
@@ -69,7 +69,7 @@ const testimonials = ref([
 </script>
 
 <style scoped>
-/* Reset dasar & Section Container */
+
 .testimonial-section {
   background-color: #f9fafb;
   padding: 60px 20px;
